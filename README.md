@@ -95,5 +95,5 @@ Use this section to outline areas that you want to continue focusing on in futur
 ## Author
 
 - Website - [Wanjiru Kariukki](https://www.your-site.com)
-- Twitter - [@Wanjiruestar](https://www.twitter.com/yourusername)
+- Twitter - [@Wanjiruestar](https://www.twitter.com/Wanjiruestar)
 
