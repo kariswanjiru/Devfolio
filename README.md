@@ -3,7 +3,7 @@
 ## Table of contents
 
 - [Overview](#overview)
-  - [Introduction](#intro)
+  - [Introduction](#introduction)
   - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
