@@ -11,7 +11,7 @@
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
-- [Wanjiru Kariuki](#author)
+- [Author](#author)
 
 
 ## Overview
