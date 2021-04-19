@@ -4,7 +4,7 @@
 
 - [Overview](#overview)
   - [Introduction](#introduction)
-  - [Screenshot](#screenshot)
+  - [Design](#design)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
@@ -23,17 +23,17 @@
 
 
 
-### Screenshot
+### Design
 
 ![](./screenshot.jpg)
 
 
 
-
+-Design URL: [](https://your-live-site-url.com)
 
 ### Links
 
-- Solution URL: [](https://your-solution-url.com)
+
 - Live Site URL: [](https://your-live-site-url.com)
 
 ## My process
@@ -46,7 +46,7 @@
 - CSS Grid
 - Mobile-first workflow
 - [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
+- [Next.js](https://nextjs.oLive Site URL: [](https://your-live-site-url.com)rg/) - React framework
 - [Styled Components](https://styled-components.com/) - For styles
 
 
