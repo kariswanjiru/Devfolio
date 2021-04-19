@@ -29,7 +29,7 @@
 
 
 
--Design URL: [](https://your-live-site-url.com)
+- Design URL: [](https://your-live-site-url.com)
 
 ### Links
 
