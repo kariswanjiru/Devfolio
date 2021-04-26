@@ -1,5 +1,6 @@
 # Devfolio
-
+The website is a platform to be able to show case my portfolio in UI/Ux, Frontend development and Data
+Science in both R and Python.
 ## Table of contents
 
 - [Overview](#overview)
@@ -26,6 +27,7 @@
 ### Design
 
 ![](./screenshot.jpg)
+Design screenshot.
 
 
 
