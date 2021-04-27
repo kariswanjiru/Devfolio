@@ -36,7 +36,7 @@ Design screenshot.
 ### Links
 
 
-- Live Site URL: [](https://kariswanjiru.github.io/Devfolio/)
+- Live Site URL: [Wanjiru Kariuki](https://kariswanjiru.github.io/Devfolio/)
 ## My process
 
 ### Built with
