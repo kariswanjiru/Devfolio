@@ -10,14 +10,14 @@
     <section class="container-body">
 
         <!--home-->
-           <section class="home">
+           <section class="home" id="home">
            <div class="menu">
            <Ul>
-           <li>Home</li>
-           <li>About</li>
-           <li>My Projects</li>
-           <li>Contact</li>
-           </Ul>
+           <li><a href="#home">Home</a></li>
+           <li><a href="#About">About Wanjiru</a></li>
+           <li><a href="#project">My Projects</a></li>
+           <li><a href="#contact">Contact</a></li>          
+            </ul>
            </div>
            <div class="home-text">
             <h2>Welcome!I am</h2>
@@ -28,7 +28,7 @@
            </section>
       
         <!--about-->
-           <section class="about" id>
+           <section class="about" id="About">
             <div>
                <div>
                   <h2>About</h2>
@@ -49,7 +49,7 @@
            </section>
       
         <!--my project portfolio-->
-           <section class="projects">
+           <section class="projects" id="project">
             <div>
                <div>
                   <h2>My Projects</h2>
@@ -70,10 +70,17 @@
            </section>
       
         <!--contact me-->
-           <section class="contact">
-            <form action="" method="get">
-
-            </form>
+           <section class="contact" id="contact">
+              <div>
+                 <div class="right"></div>
+                 <div class="left">
+                  <form action="" method="get">
+                     <input type="text" placeholder="Name">
+                     <input type="email" name="" id="">
+                     <textarea name="msg" id="" cols="30" rows="10" placeholder="Type Message...."></textarea>
+                  </form>
+                 </div>
+              </div>
            </section>
       
          </section>
