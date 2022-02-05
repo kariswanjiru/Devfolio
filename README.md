@@ -31,7 +31,7 @@ Design screenshot.
 
 
 
-- Design URL: [](https://your-live-site-url.com)
+- Design prototype URL: [](https://your-live-site-url.com)
 
 ### Links
 
@@ -47,8 +47,9 @@ Design screenshot.
 - CSS Grid
 - Mobile-first workflow
 - [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.oLive Site URL: [](https://your-live-site-url.com)rg/) - React framework
 - [Styled Components](https://styled-components.com/) - For styles
+- [typed.js](http://mattboldt.github.io/typed.js/)
+- [aos.js](https://michalsnik.github.io/aos/)
 
 
 
